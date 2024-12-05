@@ -60,7 +60,6 @@ While Not Keydown(KEY_ESCAPE)
 	SetColor 0, 0, 0
 	DrawText(current_time, 11, 11)
 	DrawText(video_time, 11, 31)
-	DrawText()
 	DrawText(elapsed_time, 11, 51)
 
 	SetColor 255, 255, 255
